@@ -1,0 +1,19 @@
+*{
+    margin: 0;padding: 0;
+}
+
+#cards{
+    display: flex;
+    margin: 8% 25%;
+  flex-wrap: wrap;
+  gap: 40px;
+}
+img{
+    width: 100% !important;
+}
+
+#carouselExampleIndicators {
+    max-width:100%;
+    
+
+}
